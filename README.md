@@ -13,7 +13,7 @@
 
 ## Introduction
 
-![main image](https://cdn.sanity.io/images/1z5g6za5/production/587c970dc17b4ec30a455ab9667eb6dff7e1f8da-1769x989.png?w=2000&fit=max&auto=format)
+![main image](https://cdn.sanity.io/images/1z5g6za5/production/83e5f79258155bb0cff292bb6fe0a221866fbbfa-1772x921.png?w=2000&fit=max&auto=format)
 
 This is a conversational voice controlled news app which was build using react and alan ai. This app can navigate through pages and give voice commands using alan's sdk.
 
